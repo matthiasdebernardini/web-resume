@@ -16,10 +16,10 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-username = "Anon Developer"
-user_description = "Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS."
-user_title = "Software Developer"
-email = "anon@anon.com"
-twitter_username = "lorem_ipsum"
-github_username =  "lorem_ipsum"
-gplus_username =  "lorem_ipsum"
+username = "Matthias Debernardini"
+user_description = "Rustacean & Bitcoiner"
+user_title = "Materials Engineer turned Software Developer"
+email = "m.f.debern@protonmail.com"
+twitter_username = "colemaktypo"
+github_username =  "matthiasdebernardini"
+gplus_username =  "matthias.debernardini"

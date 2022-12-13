@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://matthiasdebernardini.github.io/web-resume/sitemap.xml
